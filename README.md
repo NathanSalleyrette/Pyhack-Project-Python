@@ -1,2 +1,2 @@
-# Projet-Pyhack
-Mini-jeu générant des pièces et des couloirs aléatoirement. On peut aussi contrôler les déplacements du personnage avec les flèches directionnelles.
+# Pyhack-Project
+Mini-game generating random pieces and corridors. You can also control the movements of the character with the directional arrows.
